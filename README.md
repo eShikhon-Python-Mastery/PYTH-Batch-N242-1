@@ -113,3 +113,7 @@ Additional resources such as tutorials, articles, and reference materials.
 - [LearnPython - Learn Python Programming](https://www.learnpython.org/)
 - [RealPython - Learn Python Programming](https://realpython.com/)
 - [FreeCodeCamp - Learn Python Programming](https://www.freecodecamp.org/news/python-code-examples-sample-script-coding-tutorial-for-beginners/)
+
+## Contributing
+
+We welcome contributions from everyone. Please see our [contributing guidelines](CONTRIBUTING.md) for more details.
