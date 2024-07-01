@@ -1,0 +1,88 @@
+
+# Mid Exam - 01 Practice Questions
+
+## Class 01: Orientation and Basics
+
+### Orientation and Course Content
+1. What are the key topics covered in this Python course?
+2. Explain the process for setting up your development environment and installing Python.
+3. Describe the assignment submission process for this course.
+
+### Introduction to Programming
+4. What is a programming language and why is it important?
+5. Explain the basic structure of a Python program.
+6. What are variables and how are they used in Python?
+
+## Class 02: Introduction to Python
+
+### What is Python
+7. What is Python and what are its primary uses?
+8. Briefly describe the history and evolution of Python.
+9. Why is Python a popular programming language?
+
+### Running Python Code
+10. How can you run Python code on your local machine?
+11. Describe different ways to execute Python code (interactive mode, script mode).
+12. What is the Python interpreter and how does it work?
+
+## Class 03: Python Basics
+
+### Python Variables
+13. What are variables in Python?
+14. Explain the concept of object identity in Python.
+15. How do you take user input in Python and display output?
+
+### Python Syntax
+16. Explain statement, indentation, and comment in Python.
+17. What are the rules for naming variables in Python?
+18. Write a Python program to swap the values of two variables.
+
+## Class 04: Operators in Python
+
+### Introduction to Operators
+19. What is an operator in Python? Give examples.
+20. Explain the difference between operands and operators.
+
+### Types of Operators
+21. List and describe the different types of operators in Python (arithmetic, comparison, assignment, logical, membership, identity).
+22. Give examples of how to use arithmetic operators in Python.
+23. Explain the difference between `==` and `is` operators.
+24. How are comparison operators used in Python? Provide examples.
+25. Describe the purpose of logical operators and give examples of their usage.
+
+### Operator Precedence and Ternary Operators
+26. What is operator precedence and why is it important?
+27. Provide an example to demonstrate operator precedence.
+28. Explain the ternary operator and give an example of its use.
+29. How do membership operators work in Python? Provide examples.
+30. What is the use of the identity operator in Python? Give examples.
+
+## Mid Exam - 01 Practice Problems
+
+### Basic Python Programs
+31. Write a Python program to take user input for a name and greet the user with "Hello, [name]!".
+32. Write a Python program to calculate the sum of two numbers entered by the user.
+33. Write a Python program that prints "Hello, World!" to the console.
+34. Write a Python program to find the square of a number entered by the user.
+35. Write a Python program to print the current date and time.
+
+### Working with Variables and Data Types
+36. Write a Python program to demonstrate the use of different data types (int, float, str).
+37. Write a Python program that converts a given number of seconds to hours, minutes, and seconds.
+38. Write a Python program to find the area of a rectangle.
+39. Write a Python program to convert Celsius to Fahrenheit.
+40. Write a Python program to check if a given string is a palindrome.
+
+### Using Operators
+41. Write a Python program that takes two numbers as input and displays their sum, difference, product, and quotient.
+42. Write a Python program to check if a given number is even or odd using the modulus operator.
+43. Write a Python program to find the maximum of three numbers using comparison operators.
+44. Write a Python program to calculate the average of three numbers.
+45. Write a Python program to check if a given number is positive, negative, or zero.
+
+### Conditional Statements
+46. Write a Python program that checks if a given year is a leap year.
+47. Write a Python program that determines the largest of three numbers entered by the user.
+48. Write a Python program to check if a given character is a vowel or consonant.
+49. Write a Python program to check if a given number is prime.
+50. Write a Python program to calculate the factorial of a number using a for loop.
