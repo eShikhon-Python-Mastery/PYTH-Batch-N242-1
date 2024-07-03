@@ -10,20 +10,20 @@ This course covers a wide range of topics, designed to take you from a beginner 
 ## Contents
 
 ### Class 01: 
-- [ ] Orientation Class
-- [ ] Overview of Course Content and Related Topics
-- [ ] Setting Up the Integrated Development Environment (IDE) and Installing Python
-- [ ] Understanding the Assignment Submission Process
-- [ ] Introduction of Programming Language
+- [x] Orientation Class
+- [x] Overview of Course Content and Related Topics
+- [x] Setting Up the Integrated Development Environment (IDE) and Installing Python
+- [x] Understanding the Assignment Submission Process
+- [x] Introduction of Programming Language
 
 ### Class 02: 
-- [ ] What is Python
-- [ ] Python History and Versions        
-- [ ] Why Learn Python?        
-- [ ] Where is Python Used?        
-- [ ] Python Popular frameworks and Libraries        
-- [ ] How to run Python Code        
-- [ ] How does Python Work?
+- [x] What is Python
+- [x] Python History and Versions        
+- [x] Why Learn Python?        
+- [x] Where is Python Used?        
+- [x] Python Popular frameworks and Libraries        
+- [x] How to run Python Code        
+- [x] How does Python Work?
 
 ### Class 03: 
 - [ ] Python Variable
