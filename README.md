@@ -28,7 +28,7 @@ This course covers a wide range of topics, designed to take you from a beginner 
 ### Class 03: 
 - [x] Python Variable
 - [x] Object Identity    
-- [ ] Input and Output    
+- [x] Input and Output    
 - [x] Statement, Indentation, and Comment
 
 ### Class 04: 
@@ -47,7 +47,7 @@ This course covers a wide range of topics, designed to take you from a beginner 
 
 ### Class 05: 
 - [x] Introduction to Data Types
-- [ ] Strings
+- [x] Strings
 
 ### Class 06:
 - [ ] List
