@@ -26,27 +26,27 @@ This course covers a wide range of topics, designed to take you from a beginner 
 - [x] How does Python Work?
 
 ### Class 03: 
-- [ ] Python Variable
-- [ ] Object Identity    
+- [x] Python Variable
+- [x] Object Identity    
 - [ ] Input and Output    
-- [ ] Statement, Indentation, and Comment
+- [x] Statement, Indentation, and Comment
 
 ### Class 04: 
-- [ ] Introduction to Operators
-- [ ] Operand vs Operators
-- [ ] Arithmetic Operators
-- [ ] Comparison Operators
-- [ ] Assignment Operators
-- [ ] Logical Operators
-- [ ] Membership Operators
-- [ ] Identity Operators
-- [ ] Operator Precedence
+- [x] Introduction to Operators
+- [x] Operand vs Operators
+- [x] Arithmetic Operators
+- [x] Comparison Operators
+- [x] Assignment Operators
+- [x] Logical Operators
+- [x] Membership Operators
+- [x] Identity Operators
+- [x] Operator Precedence
 - [ ] Ternary Operators
-- [ ] Important Differences
+- [x] Important Differences
 - [ ] Mid Exam - 01 Discussion
 
 ### Class 05: 
-- [ ] Introduction to Data Types
+- [x] Introduction to Data Types
 - [ ] Strings
 
 ### Class 06:
