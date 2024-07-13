@@ -50,7 +50,7 @@ This course covers a wide range of topics, designed to take you from a beginner 
 - [x] Strings
 
 ### Class 06:
-- [ ] List
+- [x] List
 
 ### Class 07:
 - [ ] Tuples                
